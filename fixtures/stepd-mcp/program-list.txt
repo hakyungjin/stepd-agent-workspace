@@ -1,0 +1,12 @@
+프로그램 5개:
+
+· [연동 시험] 삭제 예정 — variety · 회차 0 · 들어온 회차 0 · 편집본 0
+  (program=p_aaaa0001)
+· 가상 예능 A, 그 후 이야기는 계속된다 — variety · 회차 0 · 들어온 회차 0 · 편집본 1
+  (program=p_aaaa0002)
+· 가상 드라마 B — drama · 회차 0 · 들어온 회차 35 · 편집본 0
+  (program=p_aaaa0003)
+· 가상 토크쇼 C — 예능 · 회차 0 · 들어온 회차 5 · 편집본 0
+  (program=p_aaaa0004)
+· 장르 없는 작품 D
+  (program=p_aaaa0005)

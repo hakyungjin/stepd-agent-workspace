@@ -1,0 +1,41 @@
+편집본 277건 중 5건:
+
+1. 가상 편집본 제목 하나
+   가상 드라마 B 1회 · 46초 · 9:16-crop-main · 인코딩 완료
+   종류: T6 · ready
+   배포: 아직 없음
+   훅 "가상 훅 대사 하나,"
+   줄거리: 첫 편집본의 가상 줄거리 문장이다.
+   편집 https://stepd.example.com/editor/c_ffff0001
+   (clip=c_ffff0001)
+2. 가상 편집본 제목 둘
+   가상 드라마 B 2회 · 54초 · 9:16-crop-main · ⚠️ 재인코딩 필요(수정이 영상에 반영 안 됨)
+   종류: T6 · ready
+   배포: 유튜브 예약 2026-04-01 09:00
+   훅 "가상 훅 대사 둘."
+   줄거리: 두 번째 편집본의 가상 줄거리 문장이다.
+   편집 https://stepd.example.com/editor/c_ffff0002
+   (clip=c_ffff0002)
+3. 가상 편집본 제목 셋
+   가상 드라마 B 3회 · 73초 · 9:16-crop-main · 인코딩 완료
+   종류: T6 · ready
+   배포: 틱톡 기록만(사람이 직접 올림)
+   훅 "가상 훅 대사 셋."
+   줄거리: 세 번째 편집본의 가상 줄거리 문장이다.
+   편집 https://stepd.example.com/editor/c_ffff0003
+   (clip=c_ffff0003)
+4. 제목 없음
+   가상 드라마 B · 72초 · 인코딩 완료
+   배포: 아직 없음
+   편집 https://stepd.example.com/editor/c_ffff0004
+   (clip=c_ffff0004)
+5. 가상 편집본 제목 다섯
+   가상 토크쇼 C 5회 · 21초 · 9:16-crop-main · 인코딩 완료
+   종류: T6 · ready
+   배포: 아직 없음
+   훅 "가상 훅 대사 다섯."
+   줄거리: 다섯 번째 편집본의 가상 줄거리 문장이다.
+   편집 https://stepd.example.com/editor/c_ffff0005
+   (clip=c_ffff0005)
+
+…272건 더 있음(limit 을 올려 조회)

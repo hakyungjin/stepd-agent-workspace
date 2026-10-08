@@ -1,0 +1,8 @@
+.next/
+node_modules/
+next-env.d.ts
+package-lock.json
+public/
+app/icon.svg
+.local-data/
+test-results/

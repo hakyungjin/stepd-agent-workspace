@@ -1,0 +1,42 @@
+가상 드라마 B · drama
+
+
+등장인물 6명 (배우 — 극중 이름들)
+· 배우일 — 인물일
+  (cast=cast_bbbb0001)
+· 배우이 — 인물이 · 가명이
+  (cast=cast_bbbb0002)
+· 배우삼
+  (cast=cast_bbbb0003)
+· 배우사 — 인물사
+  (cast=cast_bbbb0004)
+· 배우오 — 인물오
+  (cast=cast_bbbb0005)
+· 배우육 — 인물육
+  (cast=cast_bbbb0006)
+
+회차 35개 (시간순)
+· 1회 · 2026-01-05 · recommend(done) · 파일 5개
+  (episode=e_cccc0001)
+· 2회 · 2026-01-06 · recommend(done) · 파일 5개
+  (episode=e_cccc0002)
+· 3회 · 2026-01-07 · recommend(done) · 파일 5개
+  (episode=e_cccc0003)
+· 4회 · 2026-01-08 · analyze(progress)
+  (episode=e_cccc0004)
+· 5회 · recommend(done)
+  (episode=e_cccc0005)
+· 22회 · 2026-02-10 · recommend(done) · 파일 5개
+  (episode=e_cccc0022)
+· 37회 · 2026-03-15 · recommend(done) · 파일 5개
+  (episode=e_cccc0037)
+· 회차 번호 없음 · 2026-03-20 · recommend(done)
+  (episode=e_cccc0099)
+
+아직 없는 것:
+· 인물 관계(배우자·소속 등)는 아직 저장하지 않는다 — 등장인물의 역할·메모까지가 전부다
+— 사용자에게 물어볼 것(그대로 읽지 말고 대화체로 바꿔 물을 것) —
+· 이 작품의 줄거리(한두 줄)가 비어 있습니다. 어떤 이야기인지 알려 주시겠어요?
+    답을 들으면: set_program_info 의 synopsis 로 적는다. 스포일러를 넣을지도 같이 물을 것.
+· 이 작품에서 꼭 알아야 할 설정이나 인물 관계가 있나요? (예: 같은 사람인데 이름이 둘)
+    답을 들으면: 들은 것을 propose_program_fact 로 한 문장씩 올린다(검수는 사람이 한다).
